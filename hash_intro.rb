@@ -6,3 +6,5 @@ months = Hash.new("month")
  H = Hash["a"=> 100, "b"=>200]
 
 puts H["a"]
+
+puts H['a']
