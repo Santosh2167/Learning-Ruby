@@ -1,0 +1,30 @@
+
+four_letter_animals = ["calf","Duck","Elephant","goat","lamb","Lion","Mule","dog"]
+
+#four_letter_animals << "Puma"
+#print four_letter_animals
+
+#four_letter_animals.insert(4,"Joey")
+
+#print "new array is: #{four_letter_animals}"
+
+four_letter_animals.pop
+
+puts "popping dog out: #{four_letter_animals}"
+
+#four_letter_animals.reverse 
+
+#puts "follow is reverse array"
+#puts four_letter_animals.reverse
+
+#four_letter_animals[2] = "foal"
+
+#puts four_letter_animals
+
+#four_letter_animals<<"Bear"
+
+#puts four_letter_animals
+
+#puts "followin in the reverse order again"
+
+#puts four_letter_animals.reverse
